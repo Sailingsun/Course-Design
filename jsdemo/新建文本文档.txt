@@ -1,0 +1,9 @@
+如果一个事件在同一时间内被触发多次，那么只执行一次
+
+
+bind+this + 深深体会到inherit的好处
+logo使用rel=icon
+购物车/flash/问卷反馈https://www.cnblogs.com/liuxianan/p/html5-video-resize.html
+object-fit：fill
+绝对定位出流使其当背景
+在javaScript或者jQuery中字符串比较没有equals()方法，要比较两个字符串是否相等可以直接用==或者is()进行判断。
